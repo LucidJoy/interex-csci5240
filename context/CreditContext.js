@@ -26,8 +26,8 @@ export const CreditProvider = ({ children }) => {
   // const interexPoolAddress = "0xB7410b0493DA47E4Ac158eeda1B2A752f3c8B2Be";
 
   // sepolia-testnet
-  const interex20Address = "0x943574eb3d5786f755c59BFD287aec6Fb4a0f7B0";
-  const interexPoolAddress = "0x98aBA7E97d4cea0F41B5B72be69574F8eDFb5c31";
+  const interex20Address = "0x14Fd0d1039707c36996cBCf3F4b1386D6E2903a7";
+  const interexPoolAddress = "0x8A2fF6985840DD330Cd9Eb63ac612E074E55D903";
 
   // use effects
   useEffect(() => {
